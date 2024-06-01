@@ -1,16 +1,16 @@
 <header>
     <nav>
       <a href="#about">About</a>
-      <p><a href="#skills">Skills</a></p>
-      <p><a href="#awards">Awards</a></p>
-      <p><a href="#experience">Experience</a></p>
-      <p><a href="#education">Education</a></p>
+      <a href="#skills">Skills</a>
+      <a href="#awards">Awards</a>
+      <a href="#experience">Experience</a>
+      <a href="#education">Education</a>
       <a href="#contact">Contact</a>
     </nav>
-    <div class="profile">
+    <div class="profile">    
+      <img [src]="profile.image" alt="Profile" >  
       <h1>{{ profile.name }}</h1>
-      <p>{{ profile.title }}</p>
-      <img [src]="profile.image" alt="Profile" >     
+      <p>{{ profile.title }}</p>   
     </div>
     <div class="social-links">
       <a href="#facebook"><i class="fab fa-facebook-f"></i></a>

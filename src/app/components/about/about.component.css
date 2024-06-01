@@ -15,14 +15,12 @@ body, h3, h4, p, ul, li {
     padding-bottom: 0px;
   }
   body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;    
     color: #333;
   }
   
   #about {
-    max-width: 800px;
     margin: 50px auto;
     padding: 20px;
     background-color: #f7f1edc9;
