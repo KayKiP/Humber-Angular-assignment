@@ -1,0 +1,42 @@
+header {
+    text-align: left;
+    background: url('https://as2.ftcdn.net/v2/jpg/06/35/48/55/1000_F_635485583_hhSpFPVyt4S2I8P5kXWeO2eQ3pvc83kD.jpg') no-repeat center center/cover;
+    padding: 40px;
+    color: #fff;
+  }
+  
+  nav {
+    margin-bottom: 20px;
+    padding-bottom:50px;
+    font-size: 1.4em;
+}
+  
+  nav a {
+    margin: 0 10px;
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .profile img {
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+  }
+  
+  .profile h1 {
+    margin: 10px 0 5px;
+    font-size: 2.5em;
+    text-align: left;
+  }
+  
+  .profile p {
+    font-size: 1.2em;
+    text-align: left;
+  }
+  
+  .social-links a {
+    margin: 0 5px;
+    color: #fff;
+    font-size: 1.5em;
+  }
+  
